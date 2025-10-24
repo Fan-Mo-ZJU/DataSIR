@@ -25,7 +25,7 @@ We support the following transformation logic:
 - Inserting Chinese characters
 - Inserting English letters/numbers
 
-You can refer to the paper **"DataSIR:A Benchmark Dataset for Sensitive Information Recognition"** accepted by **NeurIPS 2025** for more details.
+You can refer to the paper **"DataSIR: A Benchmark Dataset for Sensitive Information Recognition"** accepted by **NeurIPS 2025** for more details.
 
 ## Dependencies and Model Configurations
 
